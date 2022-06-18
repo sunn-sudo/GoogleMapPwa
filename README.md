@@ -1,4 +1,4 @@
-# GoogleMapPwa
+# history-google-map-pwa
 
 > A Vue.js project
 
